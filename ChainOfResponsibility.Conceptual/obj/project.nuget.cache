@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgYr/gUwo9GvxKpUyrQ8n4mcz9Twfp4jBQqcH1XaoTvkZ1GEs1sy3nzYcT0CBkkIA4xBfYVYtxfKnWiKyUrhdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joe26\\Desktop\\C#\\ChainOfResponsibility.Conceptual\\ChainOfResponsibility.Conceptual.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joe26\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\joe26\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\joe26\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\joe26\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\joe26\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\joe26\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
